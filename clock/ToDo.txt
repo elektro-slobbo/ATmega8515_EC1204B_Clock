@@ -1,0 +1,8 @@
+//*********************************************
+// ToDo:
+// - egg timer
+// - egg timer: show % over via leds 
+// - set diffdate via menue 
+// - re-activate support for more the one temp sensor 
+// - dimmer, via menue or LDR
+// - bluetooth support?!
